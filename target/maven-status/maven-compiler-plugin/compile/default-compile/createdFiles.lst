@@ -1,4 +1,4 @@
 com\shop\inventory\repository\InventoryRepository.class
 com\shop\inventory\model\InventoryItem.class
-com\shop\inventory\controller\InventoryController.class
 com\shop\inventory\App.class
+com\shop\inventory\controller\InventoryController.class
